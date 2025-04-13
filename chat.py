@@ -14,7 +14,7 @@ app = Flask(__name__)
 CORS(app)
 
 # Cấu hình OpenAI API Key (thay YOUR_API_KEY bằng API key của bạn)
-openai.api_key = ""
+openai.api_key = "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"
 
 # 🔹 Kết nối MySQL
 def connect_db():
