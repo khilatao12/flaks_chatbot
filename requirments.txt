@@ -1,9 +1,0 @@
-Flask
-flask-cors
-openai
-pymysql
-underthesea
-scikit-learn
-fuzzywuzzy
-python-Levenshtein
-gunicorn
